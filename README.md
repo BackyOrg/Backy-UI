@@ -1,30 +1,46 @@
-# React + TypeScript + Vite
+# Welcome to the Backy Fast Food UI Repository 🍔🍟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for the user interface (UI) of the Backy Fast Food web application, a platform for online reservation and ordering from the Backy fast-food/restaurant located in Madagascar. This application offers a convenient and fast experience for customers who want to enjoy the delights of Backy without leaving the comfort of their home.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Backy Fast Food application offers the following features:
 
-## Expanding the ESLint configuration
+- **Online Reservation:** Reserve a table in advance for a hassle-free dining experience.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Menu Ordering:** Explore Backy's diverse menu, place your order online, and customize it to your preferences.
 
-- Configure the top-level `parserOptions` property like this:
+- **Fast Delivery:** Enjoy fast delivery of your favorite dishes directly to your doorstep.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **Mobile Version:** A mobile version is also currently in development for an optimal user experience on all devices.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## How It Works
+
+1. **Online Reservation:**
+   - Access the reservation tab on the application.
+   - Select the date, time, and number of people.
+   - Receive instant confirmation of your reservation.
+
+2. **Online Menu Ordering:**
+   - Browse Backy's complete menu with detailed descriptions.
+   - Add your favorite items to the cart.
+   - Customize dishes according to your preferences.
+   - Place your order and receive confirmation.
+
+3. **Fast Delivery:**
+   - Choose the delivery option when placing your order.
+   - Track the status of your delivery in real-time.
+   - Receive your meals quickly at your doorstep.
+
+## Technologies Used
+
+- Frontend: [![My Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind)](https://skillicons.dev)
+- Backend: [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://skillicons.dev)
+- Database: [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+- Mobile Version: [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) (under development)
+
+## Authors
+
+This project is maintained by [Fiantso Harena](https://github.com/HarenaFiantso) and [Tendry Rakotovao](https://github.com/Tendry24).
+
+Feel free to explore, contribute, and enjoy the Backy Fast Food experience online! 🍽️🚀
