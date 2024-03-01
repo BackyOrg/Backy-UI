@@ -17,11 +17,13 @@ The Backy Fast Food application offers the following features:
 ## How It Works
 
 1. **Online Reservation:**
+
    - Access the reservation tab on the application.
    - Select the date, time, and number of people.
    - Receive instant confirmation of your reservation.
 
 2. **Online Menu Ordering:**
+
    - Browse Backy's complete menu with detailed descriptions.
    - Add your favorite items to the cart.
    - Customize dishes according to your preferences.
